@@ -55,7 +55,7 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
+            "img": "img/team/vikas.jpeg",
             "name": "Vikas Tiwari",
             "job": "Mobile app developer"
         },
@@ -66,7 +66,7 @@
         }, {
             "img": "img/team/IMG_0840.jpg",
             "name": "Mukul",
-            "job": "Web designer"
+            "job": "React.js Developer"
         },
         {
             "img": "img/team/04.jpg",

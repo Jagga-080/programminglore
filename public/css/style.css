@@ -452,7 +452,9 @@ div#features.text-center {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 240px;
+  width: 200px;
+  min-height: 200px;
+  max-height: 200px;
 }
 #team .thumbnail {
   background: transparent;

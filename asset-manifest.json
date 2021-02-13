@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/programminglore/static/css/main.0407f36f.chunk.css",
+    "main.js": "/programminglore/static/js/main.01f98f7c.chunk.js",
+    "main.js.map": "/programminglore/static/js/main.01f98f7c.chunk.js.map",
+    "runtime-main.js": "/programminglore/static/js/runtime-main.656a1a0d.js",
+    "runtime-main.js.map": "/programminglore/static/js/runtime-main.656a1a0d.js.map",
+    "static/js/2.a893ed5b.chunk.js": "/programminglore/static/js/2.a893ed5b.chunk.js",
+    "static/js/2.a893ed5b.chunk.js.map": "/programminglore/static/js/2.a893ed5b.chunk.js.map",
+    "index.html": "/programminglore/index.html",
+    "precache-manifest.14d40803697e59281191056b1e65b8db.js": "/programminglore/precache-manifest.14d40803697e59281191056b1e65b8db.js",
+    "service-worker.js": "/programminglore/service-worker.js",
+    "static/css/main.0407f36f.chunk.css.map": "/programminglore/static/css/main.0407f36f.chunk.css.map",
+    "static/js/2.a893ed5b.chunk.js.LICENSE.txt": "/programminglore/static/js/2.a893ed5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.656a1a0d.js",
+    "static/js/2.a893ed5b.chunk.js",
+    "static/css/main.0407f36f.chunk.css",
+    "static/js/main.01f98f7c.chunk.js"
+  ]
+}
